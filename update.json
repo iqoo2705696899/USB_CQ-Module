@@ -1,6 +1,6 @@
 {
-  "version": "v1.0",
-  "versionCode": 1,
+  "version": "v1.1",
+  "versionCode": 11,
   "zipUrl": "https://github.com/iqoo2705696899/USB_CQ-Module/releases/download/1.1/USB_CQ.zip",
   "changelog": "初始版本：支持过春秋检测、USB调试和TWRP残留清理"
 }
